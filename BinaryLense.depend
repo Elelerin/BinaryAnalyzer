@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1738661668 source:/home/hero/MountPointA/BinaryLens/BinaryLense/main.cpp
+	<iostream>
+	<bfd.h>
+	"loader.h"
+
+1738637409 source:/home/hero/MountPointA/BinaryLens/BinaryLense/src/Symbol.cpp
+	"Symbol.h"
+
+1738637601 /home/hero/MountPointA/BinaryLens/BinaryLense/include/Symbol.h
+	<stdint.h>
+	<stdlib.h>
+	<string>
+
+1738637084 source:/home/hero/MountPointA/BinaryLens/BinaryLense/src/Binary.cpp
+	"Binary.h"
+
+1738637601 /home/hero/MountPointA/BinaryLens/BinaryLense/include/Binary.h
+	<stdlib.h>
+	<stdint.h>
+	<string>
+
+1738653537 source:/home/hero/MountPointA/BinaryLens/BinaryLense/src/loader.cpp
+	"loader.h"
+
+1738661726 /home/hero/MountPointA/BinaryLens/BinaryLense/include/loader.h
+	<stdlib.h>
+	<stdint.h>
+	<bfd.h>
+	<iostream>
+	<string>
+	<vector>
+	<memory>
+	<format>
+
