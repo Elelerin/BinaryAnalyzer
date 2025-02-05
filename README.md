@@ -10,4 +10,5 @@ Tested on Arch Linux x86_64... Windows / Mac Users beware...
 
 # Usage
 Run through command line. 
+
 BinaryLense <path_to_binary>
