@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/BinaryLense.dir/link.d CMakeFiles/BinaryLense.dir/src/main.cpp.o -o BinaryLense  -lbfd
