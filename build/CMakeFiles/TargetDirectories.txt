@@ -1,0 +1,3 @@
+/home/hero/MountPointA/BinaryLense/build/CMakeFiles/BinaryLense.dir
+/home/hero/MountPointA/BinaryLense/build/CMakeFiles/edit_cache.dir
+/home/hero/MountPointA/BinaryLense/build/CMakeFiles/rebuild_cache.dir
