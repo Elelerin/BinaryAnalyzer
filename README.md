@@ -8,6 +8,6 @@ How to build
 If you do not have system path to BFD, the program will not compile. 
 Tested on Arch Linux x86_64... Windows / Mac Users beware...
 
-#Usage
+# Usage
 Run through command line. 
 BinaryLense <path_to_binary>
