@@ -1,5 +1,3 @@
-
-
 #ifndef LOADER_H
 #define LOADER_H
 #define PACKAGE 1
@@ -132,7 +130,6 @@ namespace loader{
                     continue;
                 }
 
-                cont:
                 size = bfd_section_size(bfd_sec);
 
                 std::unique_ptr<uint8_t[]> pass = std::make_unique<uint8_t[]>(size);
